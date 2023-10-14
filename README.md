@@ -30,9 +30,9 @@ Envisaging a diversified array of user needs, Eathub employs a judiciously craft
 
 ![Picture3](./ReadmeImages/Picture3.png)
 
-![Picture4](。/ReadmeImages/Picture4.png)
+![Picture4](./ReadmeImages/Picture4.png)
 
-![Picture5](C:\Users\User\Documents\GitHub\Eathub\ReadmeImages\Picture5.png)
+![Picture5](./ReadmeImages/Picture5.png)
 
 ### System Design
 
